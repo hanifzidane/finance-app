@@ -81,7 +81,7 @@ finance-app/
 ## 📸 Screenshots
 
 ### Tampilan Menu Utama
-![main menu](screenshots/finance.png)
+![main menu](finance.png)
 
 ---
 
