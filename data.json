@@ -1,0 +1,32 @@
+[
+    {
+        "type": "masuk",
+        "amount": 100000.0,
+        "category": ""
+    },
+    {
+        "type": "masuk",
+        "amount": 20000000.0,
+        "category": "gaji"
+    },
+    {
+        "type": "keluar",
+        "amount": 1000000.0,
+        "category": "Bayar Kos"
+    },
+    {
+        "type": "masuk",
+        "amount": 1000000.0,
+        "category": "Dividen BBCA"
+    },
+    {
+        "type": "keluar",
+        "amount": 500000.0,
+        "category": "Jumat Berkah"
+    },
+    {
+        "type": "keluar",
+        "amount": 5000000.0,
+        "category": "Beli HP"
+    }
+]
