@@ -52,12 +52,6 @@ Jika project memiliki file `requirements.txt`, jalankan:
 pip install -r requirements.txt
 ```
 
-Jika belum ada, berikut minimal library yang digunakan:
-
-```bash
-pip install tabulate colorama
-```
-
 ---
 
 ### 4. Jalankan Aplikasi
